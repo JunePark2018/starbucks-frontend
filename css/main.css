@@ -358,7 +358,7 @@
 
 /* PICK YOUR FAVORITE */
 .pick-your-favorite {
-  background-image: url("./images/favorite_bg.jpg");
+  background-image: url("/images/favorite_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -384,7 +384,7 @@
 
 /* RESERVE STORE */
 .reserve-store {
-  background-image: url("./images/reserve_store_bg.jpg");
+  background-image: url("/images/reserve_store_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -432,7 +432,7 @@
 
 /* FIND STORE */
 .find-store {
-  background-image: url("./images/find_store_bg.jpg");
+  background-image: url("/images/find_store_bg.jpg");
 }
 .find-store .inner {
   height: 400px;
@@ -513,7 +513,6 @@
   background-color: #fff;
   color: #333;
 }
-
 
 #to-top {
   width: 42px;
